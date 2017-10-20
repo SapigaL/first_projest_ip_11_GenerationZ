@@ -1,2 +1,3 @@
 # first_projest_ip_11_GenerationZ
 koroche_povorya
+dorovo Petya
